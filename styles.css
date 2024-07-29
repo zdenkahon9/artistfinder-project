@@ -83,4 +83,59 @@ body {
 }
 
 .link--btn {
+  color: #fff;
+  background-color: #11a2f3;
+  padding: 10px 18px;
+  border-radius: 3px;
+  transition: 0.2s;
+}
+
+.link--btn:hover {
+  background-color: #0d8fda;
+}
+
+/* MAIN */
+.main {
+  max-width: 1150px;
+  background-color: #fff;
+  height: 1000px;
+  margin: 0 auto;
+  border-radius: 5px;
+  margin-bottom: 35px;
+  box-shadow: 0 4px 44px rgba(0, 0, 0, 0.07);
+  animation: fade-in 0.4s 0.1s backwards;
+}
+
+/* INTRO SECTION */
+.intro {
+}
+
+.search {
+}
+
+.first-heading {
+}
+
+.emphasis {
+}
+
+.form {
+}
+
+.input {
+}
+
+.input-icon {
+}
+
+.btn {
+}
+
+.photos {
+}
+
+.photo-1 {
+}
+
+.photo-2 {
 }
